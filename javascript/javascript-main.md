@@ -22,6 +22,12 @@
 10. Conditional branching: if, '?'
 11. Logical operators
 12. Nullish coalescing operator '??'
+13. Loops: while and for
+14. The "switch" statement
+15. Functions
+16. Function expressions
+17. Arrow functions, the basics
+
 ## Links
 javascript 를 공부하면서 참고했던 사이트 등을 정리한 곳입니다.
 

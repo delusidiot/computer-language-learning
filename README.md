@@ -11,3 +11,4 @@
 5. [Javascript](./javascript/javascript-main.md)
 6. Golang
 7. [Python](./python/python-main.md)
+8. Scala
